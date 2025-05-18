@@ -1,4 +1,4 @@
-![logo]()
+![logo](https://github.com/Shiwansh2601/Shiwansh2601/blob/main/Github%20logo.png)
 <h1 align="center">Hi 👋, I'm Shiwansh Tiwari</h1>
 <h3 align="center">A passionate frontend developer and looking for internship</h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
