@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **React.js,Node.js and DSA**
 
-- 👨‍💻 All of my projects are available at [https://linkedin.com/in/shiwansh-tiwari](https://linkedin.com/in/shiwansh-tiwari)
+- 👨‍💻 All of my projects are available at [ https://www.linkedin.com/in/shiwansh-tiwari](https://www.linkedin.com/in/shiwansh-tiwari-8929482a6?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B2MUrwB1LTKKRXOhGyRKngw%3D%3D)
 
-- 📝 I regularly write articles on [https://linkedin.com/in/shiwansh-tiwari](https://linkedin.com/in/shiwansh-tiwari)
+- 📝 I regularly write articles on [https://linkedin.com/in/shiwansh-tiwari](https://www.linkedin.com/in/shiwansh-tiwari-8929482a6?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B2MUrwB1LTKKRXOhGyRKngw%3D%3D)
 
 - 💬 Ask me about **Frontend Development**
 
