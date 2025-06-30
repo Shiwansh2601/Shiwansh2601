@@ -1,17 +1,17 @@
 ![logo](https://github.com/Shiwansh2601/Shiwansh2601/blob/main/Github%20logo.png)
 <h1 align="center">Hi 👋, I'm Shiwansh Tiwari</h1>
-<h3 align="center">A passionate frontend developer , looking for internship</h3>
+<h3 align="center">A passionate Python developer , looking for internship</h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shiwansh2601&label=Profile%20views&color=0e75b6&style=flat" alt="shiwansh2601" /> </p>
 
-- 🌱 I’m currently learning **React.js,Node.js and DSA**
+- 🌱 I’m currently learning **Django  and DSA**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/shiwansh-tiwari](https://www.linkedin.com/in/shiwansh-tiwari-8929482a6?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B2MUrwB1LTKKRXOhGyRKngw%3D%3D)
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/shiwansh-tiwari](https://www.linkedin.com/in/shiwansh-tiwari-8929482a6?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B2MUrwB1LTKKRXOhGyRKngw%3D%3D)
 
-- 💬 Ask me about **Frontend Development**
+- 💬 Ask me about **Frontend Development and Python Development**
 
 - 📫 How to reach me **shiwanshtiwari281012@gmail.com**
 
