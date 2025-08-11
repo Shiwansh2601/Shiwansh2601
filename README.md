@@ -1,35 +1,88 @@
-![logo](https://github.com/Shiwansh2601/Shiwansh2601/blob/main/Github%20logo.png)
-<h1 align="center">Hi 👋, I'm Shiwansh Tiwari</h1>
-<h3 align="center">A passionate Python developer , looking for internship</h3>
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+![Header](https://github.com/Shiwansh2601/Shiwansh2601/blob/main/Github%20logo.png)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shiwansh2601&label=Profile%20views&color=0e75b6&style=flat" alt="shiwansh2601" /> </p>
+<h1 align="center">Hey there 👋, I'm Shiwansh Tiwari</h1>
+<h3 align="center">
+🚀 Python Developer | 📊 Data Science Enthusiast | 🤖 Machine Learning Explorer  
+</h3>
 
-- 🌱 I’m currently learning **Django  and DSA**
-
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/shiwansh-tiwari](https://www.linkedin.com/in/shiwansh-tiwari-8929482a6?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B2MUrwB1LTKKRXOhGyRKngw%3D%3D)
-
-- 📝 I regularly write articles on [https://www.linkedin.com/in/shiwansh-tiwari](https://www.linkedin.com/in/shiwansh-tiwari-8929482a6?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B2MUrwB1LTKKRXOhGyRKngw%3D%3D)
-
-- 💬 Ask me about **Frontend Development and Python Development**
-
-- 📫 How to reach me **shiwanshtiwari281012@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/shiwanshti75232" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shiwanshti75232" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/shiwansh-tiwari-8929482a6?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BeXBdXngPTpyjyZC2fVm9qw%3D%3D" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shiwansh tiwari" height="30" width="40" /></a>
-<a href="https://instagram.com/shiwansh_tiwari_360" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shiwansh_tiwari_360" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/shiwansh1432" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shiwansh1432" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/shiwansh_tiwari123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shiwansh_tiwari123" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/shiwanshtiwnij9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="shiwanshtiwnij9" height="30" width="40" /></a>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true&vCenter=true&width=600&lines=Data+Science+%7C+Machine+Learning+%7C+Python;Always+Learning+New+Things;DSA+Enthusiast+%26+Problem+Solver">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shiwansh2601&show_icons=true&locale=en&layout=compact" alt="shiwansh2601" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shiwansh2601&show_icons=true&locale=en" alt="shiwansh2601" /></p>
+### 🌱 **Currently Learning**
+- Data Science | Machine Learning | Deep Learning  
+- DSA & Competitive Programming  
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shiwansh2601&" alt="shiwansh2601" /></p>
+### 👨‍💻 **Portfolio & Work**
+- 🔗 [LinkedIn](https://www.linkedin.com/in/shiwansh-tiwari-8929482a6)  
+- 📂 Check out my repositories for my ML, DS, and Python projects  
+
+### 💬 **Ask Me About**
+Python • Data Science • ML Algorithms • Problem Solving  
+
+📫 **Reach Me At**: `shiwanshtiwari281012@gmail.com`
+
+---
+
+## 🌐 Connect With Me
+<p align="center">
+<a href="https://twitter.com/shiwanshti75232"><img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/shiwansh-tiwari-8929482a6"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://instagram.com/shiwansh_tiwari_360"><img src="https://img.shields.io/badge/Instagram-E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="https://www.hackerrank.com/shiwansh1432"><img src="https://img.shields.io/badge/HackerRank-2EC866.svg?&style=for-the-badge&logo=hackerrank&logoColor=white"></a>
+<a href="https://leetcode.com/shiwansh_tiwari123"><img src="https://img.shields.io/badge/LeetCode-FFA116.svg?&style=for-the-badge&logo=leetcode&logoColor=black"></a>
+<a href="https://auth.geeksforgeeks.org/user/shiwanshtiwnij9"><img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58.svg?&style=for-the-badge&logo=geeksforgeeks&logoColor=white"></a>
+</p>
+
+---
+
+## 🛠 Languages & Tools (Data Science + ML Focus)
+<p align="center">
+<img src="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=java&logoColor=white">
+<img src="https://img.shields.io/badge/NumPy-013243.svg?&style=for-the-badge&logo=numpy&logoColor=white">
+<img src="https://img.shields.io/badge/Pandas-150458.svg?&style=for-the-badge&logo=pandas&logoColor=white">
+<img src="https://img.shields.io/badge/ScikitLearn-F7931E.svg?&style=for-the-badge&logo=scikitlearn&logoColor=white">
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?&style=for-the-badge&logo=tensorflow&logoColor=white">
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C.svg?&style=for-the-badge&logo=pytorch&logoColor=white">
+<img src="https://img.shields.io/badge/Matplotlib-11557C.svg?&style=for-the-badge&logo=matplotlib&logoColor=white">
+<img src="https://img.shields.io/badge/Seaborn-4EABD1.svg?&style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=jupyter&logoColor=white">
+</p>
+
+---
+
+## 📊 GitHub Stats & Activity
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=shiwansh2601&show_icons=true&theme=tokyonight" height="165">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shiwansh2601&layout=compact&theme=tokyonight" height="165">
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shiwansh2601&theme=tokyonight" height="165">
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=shiwansh2601&theme=radical&margin-w=15&margin-h=15&column=7" alt="trophies" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+<p align="center">
+<img src="https://github.com/Shiwansh2601/Shiwansh2601/blob/output/github-contribution-grid-snake.svg">
+</p>
+
+---
+
+## 💡 Quote of the Day
+<p align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical">
+</p>
