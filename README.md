@@ -76,9 +76,8 @@ Python • Data Science • ML Algorithms • Problem Solving
 ---
 
 ## 🐍 Contribution Snake
-<p align="center">
-<img src="https://github.com/Shiwansh2601/Shiwansh2601/blob/output/github-contribution-grid-snake.svg">
-</p>
+![GitHub Snake Light](https://raw.githubusercontent.com/Shiwansh2601/Shiwansh2601/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![GitHub Snake Dark](https://raw.githubusercontent.com/Shiwansh2601/Shiwansh2601/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
 ---
 
