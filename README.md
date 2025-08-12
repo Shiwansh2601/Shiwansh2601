@@ -59,9 +59,7 @@ Python • Data Science • Machine Learning Algorithms • Problem Solving
   <a href="https://www.tensorflow.org" target="_blank"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="tensorflow"/></a>
   <a href="https://pytorch.org" target="_blank"><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="pytorch"/></a>
   <a href="https://keras.io" target="_blank"><img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="keras"/></a>
-  <a href="https://xgboost.ai" target="_blank"><img src="https://img.shields.io/badge/XGBoost-FF8C00?style=for-the-badge&logo=xgboost&logoColor=white" alt="xgboost"/></a>
-  <a href="https://lightgbm.readthedocs.io" target="_blank"><img src="https://img.shields.io/badge/LightGBM-00A3A3?style=for-the-badge&logo=lightgbm&logoColor=white" alt="lightgbm"/></a>
-  <a href="https://catboost.ai" target="_blank"><img src="https://img.shields.io/badge/CatBoost-FF6C37?style=for-the-badge&logo=catboost&logoColor=white" alt="catboost"/></a>
+ 
   <br/>
   <a href="https://matplotlib.org" target="_blank"><img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" alt="matplotlib"/></a>
   <a href="https://seaborn.pydata.org" target="_blank"><img src="https://img.shields.io/badge/Seaborn-4EABD1?style=for-the-badge&logo=seaborn&logoColor=white" alt="seaborn"/></a>
@@ -72,7 +70,7 @@ Python • Data Science • Machine Learning Algorithms • Problem Solving
   <br/>
   <a href="https://git-scm.com" target="_blank"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git"/></a>
   <a href="https://code.visualstudio.com" target="_blank"><img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="vscode"/></a>
-  <a href="https://ubuntu.com" target="_blank"><img src="https://img.shields.io/badge/Linux-Ubuntu-DD4814?style=for-the-badge&logo=ubuntu&logoColor=white" alt="linux"/></a>
+  
 </p>
 
 ---
