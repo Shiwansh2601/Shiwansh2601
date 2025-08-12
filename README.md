@@ -86,7 +86,7 @@ Python • Data Science • Machine Learning Algorithms • Problem Solving
 
 ---
 
-## ✨ Animated Skill Showcase
+## ✨ Skills 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Python+%7C+Pandas+%7C+NumPy+%7C+Matplotlib;Scikit-learn+%7C+TensorFlow+%7C+PyTorch;Data+Visualization+%7C+Machine+Learning;Deep+Learning+%7C+Data+Science" alt="skills-typing" />
 </p>
